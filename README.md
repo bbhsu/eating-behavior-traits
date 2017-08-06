@@ -41,6 +41,16 @@ Strength of study: 2/4
 Craving sweet foods is sometimes described as having a "sweet tooth". People with the G/A and A/A genotypes showed an "increased" likelihood to eat more sweets and sugary foods, while people with the G/G genotype were more likely to have a "normal" intake of sugary foods.
 
 Strength of study: 3/4
+
+## Scientific Strength Rating System
+
+The genetic markers and studies selected in this genome app represent the best and most recent genetic research in diet, nutrition, exercise and weight-related health conditions. Some research can be described as stronger than others based on the size of the population studied and whether the outcome has been replicated. Due to the current state of scientific research on the genetics of diet, exercise and nutrition, most of the studies referenced in these results are based on individuals of Caucasian ethnicity. While we all have the same genes, there are genetic and non-genetic factors in different ethnicities that might yield different outcomes for non-Caucasian populations.
+
+Strength of Study:
+ * 1/4 : Results in this category should be considered extremely preliminary.
+ * 2/4 : Small study of less than 400 people in some cases, with other small replicated studies. Results in this category are preliminary, but pass our criteria for statistical significance.
+ * 3/4 : Results derived from a moderately-sized study of at least 400 people, with or without a replication study.
+ * 4/4 : Results derived from a large study of approximately 2,000 or more people, with at least one additional study showing the same results (replication study).
 <br><br>
 
 [Genome App](https://www.guardiome.com/genome-apps-index/) powered by [Guardiome](https://www.guardiome.com/)
