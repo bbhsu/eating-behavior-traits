@@ -1,4 +1,4 @@
-# Eating-Behavior-Traits
+# Eating Behavior Traits
 
 Eating behaviors can be influenced by genes. There are certain genes that have the potential to impact how we perceive and desire particular foods, and influence our eating behaviors, such as excessive snacking and difficulty feeling full.
 
@@ -8,25 +8,21 @@ Snacking can be a healthy or unhealthy behavior. Snacking on balanced foods, con
 
 Genetic markers associated with snacking behavior include variants in the receptor for leptin, an essential hormone for the regulation of food intake. People with the G/G genotype in a leptin receptor (LEPR) genetic marker were more likely to show "increased" snacking behavior. This association has not been studied in men.
 
-Strength of study: 2/4
+If you are more likely to exhibit snacking behavior, try choosing healthy snacks, eating slowly, and reducing the size or calories of snacks.
 
 ## Hunger
 
 While most of us know the feeling of hunger, some people feel hunger more intensely and more often than others. Susceptibility to hunger can now be partially explained by genetics. A variation in the NMB gene has been associated with increased feelings of hunger. When asked about their own eating behaviors on a questionnaire, people with a T/T genotype were more likely to report an "increased" susceptibility to hunger.
 
-Strength of study: 1/4
-
 ## Satiety - Feeling Full
 
 Satiety can be described as the feeling of fullness after you eat. The FTO (fat mass and obesity-associated) gene is known to be an important factor that predisposes a person to a healthy or unhealthy level of body weight.  People who experience "difficulty in feeling full" tend to eat more without feeling satisfied.  In a 2008 study, the A/A genotype at rs9939609 in the FTO gene was associated with "difficulty in feeling full". Although this study was done in children, there is preliminary data to support that the association also holds true in adults.
 
-Strength of study: 3/4
 
 ## Eating Disinhibition
 
 Eating disinhibition describes the tendency to eat more than normal in response to a stimulus, such as a tasty food or in situations that trigger overeating (e.g., emotional stress or specific social situations). In a 2010 study, the A allele of rs1726866 was "more likely" to be associated with eating disinhibition in women. The G/G genotype at the same marker was "less likely" to be associated with eating disinhibition. There is not enough scientific evidence yet to determine if this association also holds for men.
 
-Strength of study: 2/4
 
 ## Food Desire
 
@@ -34,24 +30,12 @@ Behavioral scientists have devised techniques to measure an individual’s motiv
 
 This experiment tells us that early quitters, when compared with late quitters, are low in food reinforcement. Using this technique, a 2007 study identified a genetic component in food reinforcement. Among people who were considered obese, those who had a specific variant (A allele) of the genetic marker rs1800497 had an "increased" likelihood to make more effort to obtain their favorite foods and eat more of them. In contrast, the G/G genotype was associated with "normal" levels of food reinforcement.
 
-Strength of study: 2/4
 
 ## Sweet Tooth
 
 Craving sweet foods is sometimes described as having a "sweet tooth". People with the G/A and A/A genotypes showed an "increased" likelihood to eat more sweets and sugary foods, while people with the G/G genotype were more likely to have a "normal" intake of sugary foods.
 
-Strength of study: 3/4
-
-## Scientific Strength Rating System
-
-The genetic markers and studies selected in this genome app represent the best and most recent genetic research in diet, nutrition, exercise and weight-related health conditions. Some research can be described as stronger than others based on the size of the population studied and whether the outcome has been replicated. Due to the current state of scientific research on the genetics of diet, exercise and nutrition, most of the studies referenced in these results are based on individuals of Caucasian ethnicity. While we all have the same genes, there are genetic and non-genetic factors in different ethnicities that might yield different outcomes for non-Caucasian populations.
-
-Strength of Study:
- * 1/4 : Results in this category should be considered extremely preliminary.
- * 2/4 : Small study of less than 400 people in some cases, with other small replicated studies. Results in this category are preliminary, but pass our criteria for statistical significance.
- * 3/4 : Results derived from a moderately-sized study of at least 400 people, with or without a replication study.
- * 4/4 : Results derived from a large study of approximately 2,000 or more people, with at least one additional study showing the same results (replication study).
-<br><br>
+If you have an increased likelihood to eat more sugary foods, try choosing fruit as a healthy sweet alternative.
 
 [Genome App](https://www.guardiome.com/genome-apps-index/) powered by [Guardiome](https://www.guardiome.com/)
 <div>

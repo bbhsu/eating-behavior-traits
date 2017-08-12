@@ -1,0 +1,3 @@
+# Action.description=Suggested actions to take based on your result.
+FEATURE	FEATURE TYPE	REGION	STATE	PHENOTYPE	REFERENCE	Action
+rs2025804	variant	1:65480438-65480438	G|A	Normal snacking behavior	De krom M, Van der schouw YT, Hendriks J, et al. Common genetic variations in CCK, leptin, and leptin receptor genes are associated with specific human eating patterns. Diabetes. 2007;56(1):276-80.	Enjoy snacking normally!
